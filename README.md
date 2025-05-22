@@ -1,4 +1,4 @@
-# ObsidianCrypto
+# ObsidianEncrypt
 
 ## Usage instructions
 
